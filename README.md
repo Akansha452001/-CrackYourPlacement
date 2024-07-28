@@ -57,12 +57,14 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
@@ -76,6 +78,7 @@
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Union Find
 |  |
 | ------- |
