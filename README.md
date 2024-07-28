@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Matrix
 |  |
 | ------- |
