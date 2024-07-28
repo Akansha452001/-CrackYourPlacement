@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
