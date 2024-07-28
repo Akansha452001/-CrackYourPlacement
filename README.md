@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 ## String
 |  |
 | ------- |
@@ -52,18 +53,22 @@
 ## Graph
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -72,5 +77,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
