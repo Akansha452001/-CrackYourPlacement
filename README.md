@@ -18,6 +18,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -51,11 +52,13 @@
 | [0018-4sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
@@ -78,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -105,6 +109,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -113,6 +118,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -121,6 +127,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
