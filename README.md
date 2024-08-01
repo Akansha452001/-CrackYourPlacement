@@ -78,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
