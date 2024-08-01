@@ -40,9 +40,11 @@ public:
         for (auto stone : stones) {
             int noderow = stone[0];
             int nodecol = stone[1] + maxrow + 1;
-            Union(noderow, nodecol, parent, rank);
             uniquenodes[noderow] = 1;
             uniquenodes[nodecol] = 1;
+            Union(noderow, nodecol, parent, rank);
+            // uniquenodes[noderow] = 1;
+            // uniquenodes[nodecol] = 1;
         }
 
         int cnt = 0;
