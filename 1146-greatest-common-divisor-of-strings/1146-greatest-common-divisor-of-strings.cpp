@@ -2,8 +2,7 @@ class Solution {
 public:
     bool check(const string& length, const string& str) {
         int n = length.length();
-        if (str.length() % n != 0)
-            return false;
+       
 
         for (int i = 0; i < str.length(); i += n) {
             if (str.substr(i, n) != length)
