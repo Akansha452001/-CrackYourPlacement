@@ -23,6 +23,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -54,6 +55,7 @@
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Matrix
 |  |
 | ------- |
