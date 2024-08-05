@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
 | ------- |
