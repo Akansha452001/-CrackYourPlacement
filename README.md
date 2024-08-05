@@ -26,6 +26,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -69,6 +70,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
