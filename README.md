@@ -63,6 +63,7 @@
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [0011-container-with-most-water](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
