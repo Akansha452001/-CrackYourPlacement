@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -192,6 +193,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Math
 |  |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
