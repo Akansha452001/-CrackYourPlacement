@@ -100,6 +100,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Graph
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Biconnected Component
 |  |
 | ------- |
