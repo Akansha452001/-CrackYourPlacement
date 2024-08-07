@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
@@ -199,6 +200,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
