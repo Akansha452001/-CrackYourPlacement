@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0680-valid-palindrome-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0680-valid-palindrome-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
