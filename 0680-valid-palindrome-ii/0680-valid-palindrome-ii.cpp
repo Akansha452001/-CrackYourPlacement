@@ -13,9 +13,9 @@ bool valid(string s, int i,int j){
     
 }
     bool validPalindrome(string s) {
-       if(valid(s,0,s.length()-1)==true){
-        return true;
-       }
+    //    if(valid(s,0,s.length()-1)==true){
+    //     return true;
+    //    }
        int i=0,j=s.length()-1;
        while(i<j){
           if(s[i]==s[j]){
