@@ -21,6 +21,7 @@
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
+| [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -84,6 +85,7 @@
 | [0054-spiral-matrix](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -197,6 +199,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 ## Stack
 |  |
 | ------- |
