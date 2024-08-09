@@ -21,6 +21,7 @@
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
+| [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
@@ -74,6 +75,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
+| [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -85,6 +87,7 @@
 | [0054-spiral-matrix](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -210,6 +213,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Biconnected Component
