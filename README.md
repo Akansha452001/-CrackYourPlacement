@@ -23,6 +23,7 @@
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -77,6 +78,7 @@
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -89,6 +91,7 @@
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -144,6 +147,7 @@
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1300-critical-connections-in-a-network](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
@@ -153,6 +157,7 @@
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0999-regions-cut-by-slashes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -161,6 +166,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0999-regions-cut-by-slashes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
