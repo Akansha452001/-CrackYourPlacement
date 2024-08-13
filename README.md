@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -284,4 +285,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
