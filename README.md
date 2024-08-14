@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
@@ -50,11 +51,13 @@
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -68,6 +71,7 @@
 | [0018-4sum](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Akansha452001/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
